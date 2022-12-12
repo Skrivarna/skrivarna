@@ -1,4 +1,5 @@
-### Hi there 👋
+### About Skrivarna Software
+Skrivarna Software is located in beautiful Jönköping, by Lake Vättern in southern Sweden. It might be the smallest software company in the world, it certainly cannot be any smaller without ceasing to be a company. 
 
 <!--
 **Skrivarna/skrivarna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
